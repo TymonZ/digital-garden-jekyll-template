@@ -1,19 +1,29 @@
 ---
 layout: page
-title: Home
-id: home
+title: index
+id: index
 permalink: /
 ---
 
-# Welcome! 🌱
+# Index
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+I created this [[digital garden]] as a place to document my learning process, reposiory for my thoughts and resource aggregator. Topics I usually write about, are electronic music, procedural generation and web design. Sometimes I also upload photos of nature.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+If you don't know where to start, you can start somewhere here:
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+* [[tools]]
+
+* [[thoughts]]
+
+* [[music]]
+
+* [[visual]]
+
+* [[links]]
+
+* [[about]]
+
+Feel free to explore the site, and [mail me](mailto:tymon.zaniewski.pl@gmail.com) if you want to ask about something, or just wanna chat.
 
 <style>
   .wrapper {

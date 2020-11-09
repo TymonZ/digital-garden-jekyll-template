@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: about
+id: about
 permalink: /about
 ---
 
-*This is an about page.*
+# About me
 
-Feel free to tell the world about what you love! 😍
+I'm 16 y/o programmer and musician.
