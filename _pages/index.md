@@ -13,14 +13,14 @@ If you don't know where to start, you can start somewhere here:
 
 * [Tools](/tools)
 
-* [Thoughts](/thoughts)
+<!-- * [Thoughts](/thoughts) -->
 
 * [Music](/music)
 
-* [Visual](/visual)
+<!-- * [Visual](/visual) -->
 
 * [Links](/links)
 
 * [About](/about)
 
-Feel free to explore the site, and [email me](mailto:tymon.zaniewski.pl@gmail.com) if you want to ask about something, or just wanna chat.
+Feel free to explore the site, and [contact me](/contact) if you want to ask about something, or just wanna chat.
