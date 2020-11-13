@@ -3,7 +3,7 @@ title: System
 image: /assets/system/2020.06.06-front.jpg
 ---
 
-**System** is the name I gave my modular eurorack synthesizer.
+**System** is the name I gave my [modular](/links/modular-synthesis) eurorack synthesizer.
 
 ![]({{page.image}})
 

@@ -13,6 +13,8 @@ Pxltr is dedicated to jungle and breakcore music with heavy ambient influence in
 
 **tymon zaniewski**
 
+* [Modular Sessions II](/music/modular-sessions-ii)
+
 * [Patterns](/music/patterns)
 
 * [Modular Sessions I](/music/modular-sessions-i)

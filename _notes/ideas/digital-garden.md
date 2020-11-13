@@ -7,7 +7,7 @@ title: Digital garden
 As with many other internet-born terms, the exact definition of digital garden is unclear.
 But there are several principles of garden development that most of the community agree on, with are:
 
-* Valuing process of creation more than the result (letting indeas grow 🌱).
+* Valuing process of creation more than the result (letting ideas grow 🌱).
 
 * Abandoning chierarchical structure of the website.
 

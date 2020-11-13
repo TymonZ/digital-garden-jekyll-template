@@ -2,6 +2,7 @@
 title: About me
 ---
 
-I'm 16 y/o programmer and musician based in Gdańsk.
+I'm electronic music producer and programmer, learning how to design circuts.
+Based in Gdańsk, Poland.
 
 [Contact me](/contact)
