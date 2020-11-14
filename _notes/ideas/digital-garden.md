@@ -13,6 +13,6 @@ But there are several principles of garden development that most of the communit
 
 * Developing garden in non-linear fashion, similar to the way people naturally explore content of websites.
 
-Usually digital gardens are minimalistic pages created personally in free time, with resembles the way old-school pre-corporacional web was developed.
+Usually digital gardens are minimalistic sites created personally in free time, with resembles the way old-school pre-corporacional web was developed.
 
 **You can find more about it on my [list of resources](/links/digital-gardening).**
