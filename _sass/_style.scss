@@ -154,3 +154,24 @@ code {
 #graph-wrapper {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
 }
+
+footer {
+  width: 100%;
+}
+
+footer p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.webring {
+  text-decoration: none;
+  border-bottom: none;
+  display: inline-block;
+  line-height: 1.1rem;
+  width: 1.1rem;
+  height: 0.9rem;
+}
