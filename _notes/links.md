@@ -12,4 +12,6 @@ List of my link aggregators on various topics.
 
 * [Links: Low tech & self-sufficiency](/links/self-sufficiency)
 
+* [Links: Other digital gardens](/links/other-gardens)
+
 * [Links: Modular synthesis](/links/modular-synthesis)

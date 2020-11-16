@@ -23,6 +23,4 @@ If you don't know where to start, you can start somewhere here:
 
 * [About me](/about-me)
 
-* [Friends](/friends)
-
 Feel free to explore the site, and [contact me](/contact) if you want to ask about something, or just wanna chat.
