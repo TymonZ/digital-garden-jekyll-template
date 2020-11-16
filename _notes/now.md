@@ -12,6 +12,10 @@ Things I am doing right now.
 
 * Tsukimizu - Girls' Last Tour
 
+### Learning
+
+* Game development in Rust
+
 ### Projects
 
 * Making React web interface for [Libro](/soft/libro)
