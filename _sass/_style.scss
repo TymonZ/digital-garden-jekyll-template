@@ -6,7 +6,7 @@ $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-background: hsl(37, 100%, 97%);
-$color-box-background: hsl(37, 100%, 97%);
+
 $border-radius: 4px;
 $font-family-header: 'Libre Baskerville', serif;
 $font-family-main: 'Inconsolata', monospace;
@@ -58,7 +58,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: $color-box-background;
+  background: $color-background;
   border-radius: $border-radius;
 
   p {
@@ -124,7 +124,7 @@ a {
 }
 
 .backlink-box {
-  background: $color-box-background;
+  background: $color-background;
   padding: 1em;
   border-radius: $border-radius;
 }
