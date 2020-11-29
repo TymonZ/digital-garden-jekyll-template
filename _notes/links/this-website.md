@@ -8,6 +8,8 @@ title: "Links: About this website"
 
 * [Netlify](https://www.netlify.com/)
 
+* [Github](https://github.com/TymonZ)
+
 ### Inspirations
 
 * [Bismuth Garden](https://bismuth.garden/)
