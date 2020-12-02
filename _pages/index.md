@@ -17,6 +17,8 @@ If you don't know where to start, you can start somewhere here:
 
 * [Tools](/tools)
 
+* [Logs](/logs)
+
 * [Music](/music)
 
 * [Links](/links)

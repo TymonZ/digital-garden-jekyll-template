@@ -2,7 +2,7 @@
 title: 'Links: Climate change'
 ---
 
-<!-- Useful resources on the topic of [climate change](/ideas/digital-garden). -->
+Useful resources on the topic of climate change.
 
 * Climate Reality Check 2020 - [view online](https://online.flippingbook.com/view/959950/) or [download](/assets/docs/climate-reality-check-2020.pdf)
 
