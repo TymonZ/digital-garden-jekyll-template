@@ -2,7 +2,7 @@
 title: Now
 ---
 
-Things I am doing right now.
+Things I am doing right now. See [logs](/logs) for more in-depth look on my current projects.
 
 ### Reading
 
