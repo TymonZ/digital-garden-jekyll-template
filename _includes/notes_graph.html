@@ -1,25 +1,60 @@
 <style>
-  .links line {
-    stroke: #ccc;
-    opacity: 0.5;
+  @media (prefers-color-scheme: light) {
+    .links line {
+      stroke: #ccc;
+      opacity: 0.5;
+    }
+    .nodes circle {
+      fill: hsl(139, 35%, 40%);
+    }
+    .text text {
+      fill: #333;
+      text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
+    }
+    .nodes [active],
+    .text [active] {
+      fill: black;
+    }
+    #graph-wrapper {
+      background: #fcfcfc;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .links line {
+      stroke: #ccc;
+      opacity: 0.5;
+    }
+    .nodes circle {
+      fill: hsl(167, 100%, 50%);
+    }
+    .text text {
+      fill: hsl(0, 0%, 85%);
+    }
+    .nodes [active],
+    .text [active] {
+      fill: white;
+    }
+    #graph-wrapper {
+      background: #1a1a1a;
+    }
   }
 
   .nodes circle {
     cursor: pointer;
-    fill: hsl(139, 35%, 40%);
+    /* fill: hsl(139, 35%, 40%); */
     transition: all 0.15s ease-out;
   }
 
   .text text {
     cursor: pointer;
-    fill: #333;
-    text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
+    /* fill: #333; */
   }
 
   .nodes [active],
   .text [active] {
     cursor: pointer;
-    fill: black;
+    /* fill: black; */
   }
 
   .inactive {
@@ -28,7 +63,7 @@
   }
 
   #graph-wrapper {
-    background: #fcfcfc;
+    /* background: #fcfcfc; */
     border-radius: 4px;
     height: auto;
   }

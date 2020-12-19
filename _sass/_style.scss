@@ -18,9 +18,9 @@ $font-family-header: 'Libre Baskerville', serif;
 $font-family-main: 'Inconsolata', monospace;
 
 @media (prefers-color-scheme: light) {
-	body {
-		color: $color-text;
- 		background-color: $color-background;
+  body {
+	color: $color-text;
+	background-color: $color-background;
   }
   time {
     color: $color-subtext;
@@ -48,9 +48,9 @@ $font-family-main: 'Inconsolata', monospace;
 }
 
 @media (prefers-color-scheme: dark) {
-	body {
+  body {
     color: $d-color-text;
- 		background-color: $d-color-background;
+    background-color: $d-color-background;
   }
   time {
     color: $d-color-subtext;
@@ -67,6 +67,9 @@ $font-family-main: 'Inconsolata', monospace;
   a {
     border-bottom: 1px solid $d-color-border;
     color: $d-color-primary;
+  }
+  img {
+	filter: grayscale(100%);
   }
   *:focus {
     background: hsla(167, 100%, 50%, 0.63);
