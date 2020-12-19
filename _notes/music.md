@@ -4,6 +4,7 @@ title: My music
 
 Currently I have two separate projects, pxltr and tymon zaniewski.
 Pxltr is dedicated to jungle and breakcore music with heavy ambient influence inspired by the the late 90's scene.
+Tymon zaniewski is an alias under with I publish more experimental tracks made on my modular setup.
 
 **pxltr**
 
