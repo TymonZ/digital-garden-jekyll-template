@@ -37,6 +37,10 @@ $font-family-main: 'Inconsolata', monospace;
   a {
     border-bottom: 1px solid $color-border;
     color: $color-primary;
+    &:hover {
+      color: black !important;
+      background: #fffaf1;
+    }
   }
   *:focus {
     background: #ffe8bc;
@@ -44,6 +48,9 @@ $font-family-main: 'Inconsolata', monospace;
   }
   .backlink-box {
     background: $color-background;
+  }
+  ::selection {
+    background: mix($color-primary, $color-background, 35%); /* WebKit/Blink Browsers */
   }
 }
 
@@ -67,6 +74,10 @@ $font-family-main: 'Inconsolata', monospace;
   a {
     border-bottom: 1px solid $d-color-border;
     color: $d-color-primary;
+    &:hover {
+      color: black !important;
+      background: white;
+    }
   }
   img {
 	filter: grayscale(100%);
@@ -80,6 +91,9 @@ $font-family-main: 'Inconsolata', monospace;
   }
   .backlink-box {
     background: $d-color-background;
+  }
+  ::selection {
+    background: mix($d-color-primary, $d-color-background, 40%); /* WebKit/Blink Browsers */
   }
 }
 
@@ -167,10 +181,10 @@ a {
   text-decoration: none;
   // border-bottom: 1px solid $color-border;
   // color: $color-primary;
-  &:hover {
-    color: black !important;
-    background: #fffaf1;
-  }
+  // &:hover {
+  //   color: black !important;
+  //   background: #fffaf1;
+  // }
   &.internal-link:after {
     content: "";
   }
@@ -232,9 +246,9 @@ code {
   cursor: help;
 }
 
-::selection {
-  background: mix($color-primary, $color-background, 35%); /* WebKit/Blink Browsers */
-}
+// ::selection {
+//   background: mix($color-primary, $color-background, 35%); /* WebKit/Blink Browsers */
+// }
 
 #graph-wrapper {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
