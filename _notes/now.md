@@ -6,7 +6,7 @@ Things I am doing right now. See [logs](/logs) for more in-depth look on my curr
 
 ### Learning
 
-* Haskell
+* Game development in C++
 
 
 ### Projects
