@@ -15,3 +15,5 @@ List of my link aggregators on various topics.
 * [Links: Other digital gardens](/links/other-gardens)
 
 * [Links: Modular synthesis](/links/modular-synthesis)
+
+* [Links: Synth DIY](/links/synth-diy)
